@@ -1,5 +1,0 @@
-{{#user}}
-My name is Mounika kasa.
-Here are my skills : html, css ,js , react,c,cpp,java . 
-My email id is mounikakasa72@gmail.com.
- {{/user}}
